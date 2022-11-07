@@ -1,0 +1,27 @@
+taskKey="en.codegym.task.pro.task02.task0214"\n\nReading and converting strings
+
+Read three lines from the keyboard.
+And then:
+1. Display the third line unchanged.
+2. Display the second line after first converting it to uppercase.
+3. Display the first line after first converting it to lowercase.
+
+Example input:
+Line Number TIMES
+Second line
+Line 3
+
+Example output:
+Line 3
+SECOND LINE
+line number times
+
+
+Требования:
+1.	The program must read three lines from the keyboard.
+2.	The third line must be displayed unchanged.
+3.	The second line must be displayed in uppercase.
+4.	The first line must be displayed in lowercase.
+5.	All three lines must be printed in the correct order: third, second, first.
+
+

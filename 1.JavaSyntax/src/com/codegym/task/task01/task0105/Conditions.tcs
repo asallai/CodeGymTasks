@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task01.task0105"\n\nDeclare variables
+
+
+Write a program that declares the following variables in the main method:
+String name, int age, and String city.
+
+Note: &quot;Declaring a variable&quot; is the same thing as &quot;creating a variable&quot;.
+
+
+Требования:
+1.	Declare a String variable called name.
+2.	Declare an int variable called age.
+3.	Declare a String variable called city.
+4.	There should be 3 variables declared.
+
+

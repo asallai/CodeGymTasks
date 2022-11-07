@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task02.task0207"\n\nThe logo is everything
+
+Set the tagline variable equal to the string &quot;JustDoIt&quot;.
+Use s1, s2, and s3, and string concatenation.
+
+
+Требования:
+1.	Do not change values of the s1, s2, and s3 variables.
+2.	To initialize the tagline variable, use s1, s2, and s3, and string concatenation.
+3.	The program must display the value of the tagline variable.
+
+

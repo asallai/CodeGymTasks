@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task02.task0204"\n\n9 is an inverted 6
+
+Using only the increment operator, change the value of the six variable to that the number 9 is displayed.
+
+
+Требования:
+1.	Do not change the statement that declares the six variable.
+2.	You need to apply the increment operator to the six variable several times so that its value becomes 9.
+3.	The program must display the six variable with a value of 9.
+
+

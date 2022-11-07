@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task02.task0205"\n\nOnce there were 32 teeth
+
+Using only the decrement operator, change the value of the toothCounter variable so that number 23 is displayed.
+
+
+Требования:
+1.	Do not change the statement that declares the toothCounter variable.
+2.	You need to apply the decrement operator to the toothCounter variable several times so that its value becomes 23.
+3.	The program must display the toothCounter variable with a value of 23.
+
+

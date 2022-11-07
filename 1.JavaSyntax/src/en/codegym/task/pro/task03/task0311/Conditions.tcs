@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task03.task0311"\n\nHigh accuracy
+
+Write a program that reads two real numbers from the keyboard and reports whether these numbers are equal to within one one-millionth.
+
+
+Требования:
+1.	The program should read two number from the keyboard.
+2.	If the numbers are equal, then the program should display &quot;The numbers are equal&quot;.
+3.	If the numbers are not equal, then the program should display &quot;The numbers are not equal&quot;.
+4.	The comparison should be accurate to one one-millionth (0.000001).
+
+

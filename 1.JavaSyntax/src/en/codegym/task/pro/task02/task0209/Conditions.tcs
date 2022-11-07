@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task02.task0209"\n\nConcatenation of strings and numbers
+
+Set the digits variable equal to the string &quot;60&quot;.
+Use the x, y, and z variables, an empty string, and string concatenation.
+
+
+Требования:
+1.	Do not change the value of the x, y, and z variables.
+2.	Use the x, y, and z variables, an empty string, and string concatenation to initialize the digits variable.
+3.	The program must display the digits variable.
+
+

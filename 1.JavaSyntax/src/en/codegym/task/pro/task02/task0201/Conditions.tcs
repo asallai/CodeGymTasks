@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task02.task0201"\n\n"I'm here about the job..."
+
+In the main method, declare intValue, numericValue, size, and number variables whose type is int.
+Assign them different values. Use a single statement to create and initialize the variables.
+The values can be any integers.
+
+
+Требования:
+1.	In the main method, declare four int variables.
+2.	The names of the variables must be intValue, numericValue, size and number.
+3.	The variables must be assigned values immediately.
+4.	All the variables must have different values.
+
+

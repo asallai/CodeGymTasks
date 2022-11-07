@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task02.task0202"\n\nFeature-length film
+
+The centimeters variable contains a number of centimeters.
+Set the meters variable equal to number of full meters in centimeters (1 m = 100 cm).
+To perform the calculation, use the centimeters variable and the division operator.
+Use a single statement to declare and initialize meters.
+
+
+Требования:
+1.	Do not change the value of the centimeters variable.
+2.	You need to use the centimeters variable and the division operator to calculate the value of the meters variable.
+3.	The program must display the value of the meters variable.
+
+

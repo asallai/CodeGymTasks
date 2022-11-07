@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task02.task0210"\n\nBigger every time
+
+Set the hugeAmount variable equal to the number 100500.
+Use the bigAmount and greatAmount variables as well as string-to-number conversion.
+Use a single statement to declare and initialize hugeAmount.
+
+
+Требования:
+1.	Do not change the values of the bigAmount and greatAmount variables.
+2.	Use the bigAmount and greatAmount variables as well as the Integer.parseInt(String) method to initialize the hugeAmount variable.
+3.	The program must display the hugeAmount variable.
+
+

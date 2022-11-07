@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task03.task0303"\n\nSchool or college
+
+There is a program that takes an age as input and determines whether you need to head to school or to college.
+But it doesn&#39;t work correctly. For example, a five-year-old child is sent off to college!
+It isn&#39;t difficult to fix the program: just put curly braces in the right place.
+
+
+Требования:
+1.	The program should read a number from the keyboard.
+2.	The program must use the System.out.println() or System.out.print() command.
+3.	If the age is less than 18 and greater than or equal to 6, you should display only &quot;Off to school with you, my child&quot;.
+4.	If the age is greater than or equal to 18, you should display only &quot;Your college class starts soon&quot;.
+5.	If the age is less than 6, then don&#39;t display anything.
+
+

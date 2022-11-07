@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task02.task0213"\n\nSprucing up your resume
+
+The main method displays four lines. Each of them are superb examples of abuse of capital letters.
+Modify the code so that all the letters in these strings are lowercase.
+
+
+Требования:
+1.	Do not change the values of the title, degree, and career variables.
+2.	You need to call the toLowerCase() method on the four strings passed to the println() method.
+3.	The program output must consist of four lines.
+
+

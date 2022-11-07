@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task02.task0211"\n\nGetting the length of a string
+
+The main method displays the values of three strings.
+Modify the code so that it displays the length each string instead of the value of each string.
+
+
+Требования:
+1.	Do not change the value of the emptyString variable.
+2.	You need to call the length() method on the three strings passed to the println() method.
+3.	The program must display three numbers, each on a new line.
+
+

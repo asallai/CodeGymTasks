@@ -1,0 +1,22 @@
+taskKey="en.codegym.task.pro.task02.task0215"\n\nReading numbers
+
+Use the keyboard to read three integers.
+Display their arithmetic mean.
+
+Example input:
+51
+101
+201
+
+Example output:
+117
+
+The arithmetic mean is the sum of all the numbers divided by how many numbers there are.
+Use division without a remainder.
+
+
+Требования:
+1.	The program must read three integers from the keyboard.
+2.	The program must display the arithmetic mean of the read numbers.
+
+

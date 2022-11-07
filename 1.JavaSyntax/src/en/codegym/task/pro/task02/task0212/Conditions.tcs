@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task02.task0212"\n\nDon't you raise your voice at me!
+
+The main method displays three strings.
+Modify the code so that all the letters in these strings are capitalized.
+
+
+Требования:
+1.	Do not change the value of the caps and usa variables.
+2.	Call the toUpperCase() method on the three strings passed to the println() method.
+3.	The program output must consist of three lines.
+
+

@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task02.task0208"\n\nEmptiness and spaces
+
+Fill space with emptiness... or vice versa.
+
+Use emptiness, strings consisting of single spaces, and string concatenation to set the fullness variable to the string &quot;emptiness emptiness emptiness&quot;.
+
+
+Требования:
+1.	Do not change the value of the emptiness variable.
+2.	The fullness variable needs to be initialized in a single using the emptiness variable, strings consisting of a single space, and string concatenation.
+3.	The program must display the value of the fullness variable.
+
+
