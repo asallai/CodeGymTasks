@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task03.task0312"\n\nLet's compare strings
+
+Write a program that reads two strings from the keyboard and displays a message indicating whether the strings are the same or different.
+
+
+Требования:
+1.	The program should read two strings from the keyboard.
+2.	If the strings are the same, then the program should display &quot;The strings are the same&quot;.
+3.	If the strings are different, then the program should display &quot;The strings are different&quot;.
+
+

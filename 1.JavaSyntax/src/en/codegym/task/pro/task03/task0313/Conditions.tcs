@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task03.task0313"\n\nComparing strings by reference
+
+In the main method, write the code for a pairwise comparison by reference of the string1, string2 and string3 strings and display a corresponding message after each comparison:
+&quot;The references to the strings are the same&quot; or &quot;The references to the strings are different&quot;.
+
+The order of comparisons should be as follows:
+- string1 and string2
+- string1 and string3
+- string2 and string3
+
+
+Требования:
+1.	The string1, string2, and string3 fields and their values cannot be changed.
+2.	The main method should compare the string1 and string2 strings by reference.
+3.	The main method should compare the string2 and string3 strings by reference.
+4.	The main method should compare the string1 and string3 strings by reference.
+5.	The program should display the appropriate messages on the screen.
+6.	The program should display 3 lines.
+
+
