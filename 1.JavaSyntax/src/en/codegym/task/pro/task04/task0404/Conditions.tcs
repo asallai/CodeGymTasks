@@ -1,0 +1,18 @@
+taskKey="en.codegym.task.pro.task04.task0404"\n\nFilled rectangle
+
+Using nested while loops (a loop within a loop), display a 5 (height) by 10 (width) rectangle filled with the letter &#39;Q&#39;.
+Example output:
+QQQQQQQQQQ
+QQQQQQQQQQ
+QQQQQQQQQQ
+QQQQQQQQQQ
+QQQQQQQQQQ
+
+
+Требования:
+1.	The program should display text on the screen.
+2.	The program should display a rectangle with a height of 5 and a width of 10, filled with the letter &#39;Q&#39;.
+3.	The program must use nested while loops (a loop in a loop).
+4.	The screen output must happen in a while loop.
+
+

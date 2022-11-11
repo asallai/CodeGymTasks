@@ -1,0 +1,24 @@
+taskKey="en.codegym.task.pro.task04.task0405"\n\nUnfilled rectangle
+
+Using nested while loops (a loop within a loop), display an unfilled rectangle (just an outline) that is 10 (height) by 20 (width) and made from the letter &#39;B&#39;.
+The unfilled part consists of spaces.
+Example output:
+BBBBBBBBBBBBBBBBBBBB
+B                  B
+B                  B
+B                  B
+B                  B
+B                  B
+B                  B
+B                  B
+B                  B
+BBBBBBBBBBBBBBBBBBBB
+
+
+Требования:
+1.	The program should display text on the screen.
+2.	The program should draw the outline of a rectangle with a height of 10 and a width of 20, made from the letter &#39;B&#39;.
+3.	The program must use nested while loops (a loop in a loop).
+4.	The screen output must happen in a while loop.
+
+

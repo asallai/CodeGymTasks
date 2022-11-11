@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task04.task0401"\n\nI'll never work for peanuts
+
+Using a while loop, print the quote variable on the screen one hundred times:
+&quot;I&#39;ll never work for peanuts. Amigo&quot;
+Display each value on a new line.
+
+
+Требования:
+1.	The program should display text on the screen.
+2.	The program should display the quote variable 100 times.
+3.	The program must use a while loop.
+
+

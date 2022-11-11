@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task04.task0403"\n\nSummation
+
+Let&#39;s write a program that reads integers from the keyboard and calculates their sum until the user enters the stop word. You can set the stop word yourself.
+Once the stop word is entered, the program must display the sum and terminate.
+
+
+Требования:
+1.	The program should read data from the keyboard.
+2.	You need to calculate the sum of the entered integers and display it on the screen, if the user enters the stop word.
+3.	The program must use a while loop.
+
+
