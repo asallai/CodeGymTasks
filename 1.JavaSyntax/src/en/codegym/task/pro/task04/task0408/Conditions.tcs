@@ -1,0 +1,23 @@
+taskKey="en.codegym.task.pro.task04.task0408"\n\nMaximum of entered numbers
+
+The program must read integers from the keyboard until something else is entered, such as a string or a character. Display the maximum even number entered. If several numbers are entered, you must display any of them.
+Example input:
+8
+9
+8
+4
+5
+e
+Example output:
+8
+
+
+Требования:
+1.	The program should read numbers from the keyboard.
+2.	The program should display a number on the screen.
+3.	The program should display the maximum even number of the integers entered.
+4.	If several maximum even numbers are entered, then you need to display any one of them.
+5.	If there is no even number among the entered characters, or only one non-numeric character is entered, then display the minimum possible value for an int.
+6.	You need to read data from the keyboard in a while loop.
+
+

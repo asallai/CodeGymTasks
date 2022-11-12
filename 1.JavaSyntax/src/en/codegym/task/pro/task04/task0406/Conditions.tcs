@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task04.task0406"\n\nWe show what we get
+
+We enter data from the keyboard and immediately display it on the screen until the word &quot;enough&quot; is entered.
+Do not output the word &quot;enough&quot;.
+To do this, you need to use an infinite loop (while(true)).
+
+Hint: To terminate an infinite loop, use a break statement.
+
+
+Требования:
+1.	The program should read data from the keyboard.
+2.	The program must use a while loop.
+3.	To terminate an infinite loop, you need to use a break statement.
+4.	The program should display all the entered data, each read line on a new line, until the word &quot;enough&quot; is entered.
+
+

@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task04.task0407"\n\nSum of numbers not divisible by 3
+
+Display the sum of numbers from 1 to 100 inclusive that are not multiples of 3. Use a while loop to do this.
+Hint: To move to the next number in the loop, use a continue statement.
+
+
+Требования:
+1.	The program should display the sum of numbers from 1 to 100 inclusive that are not multiples of 3.
+2.	The program must use a while loop.
+3.	The program must use a continue statement.
+
+

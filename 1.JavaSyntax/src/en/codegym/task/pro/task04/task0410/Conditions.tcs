@@ -1,0 +1,29 @@
+taskKey="en.codegym.task.pro.task04.task0410"\n\nSecond smallest number entered
+
+In this task, you need to:
+
+1. Read integers from the keyboard until something else is entered, such as a string or a character.
+At least two numbers must be entered. If less than two integers are entered, then terminate the program with an error. You don&#39;t need to handle this situation.
+2. Display the second smallest integer entered from the keyboard. If several such numbers are entered, you must display any of them.
+There may also be several minimum numbers.
+Example input:
+8
+4 // Minimum number
+7
+4 // Minimum number
+5 // Second smallest number
+9
+5 // Second smallest number
+exit
+Example output:
+5
+
+
+Требования:
+1.	The program should read numbers from the keyboard.
+2.	The program should display a number on the screen.
+3.	The program should display the second smallest integer entered.
+4.	If several second smallest numbers are entered, then you need to display any one of them.
+5.	You need to read data from the keyboard in a while loop.
+
+

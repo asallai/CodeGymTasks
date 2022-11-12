@@ -1,0 +1,23 @@
+taskKey="en.codegym.task.pro.task04.task0409"\n\nMinimum of entered numbers
+
+The program must read integers from the keyboard until something else is entered, such as a string or a character. Display the minimum number entered. If several numbers are entered, you must display any of them.
+Example input:
+8
+4
+9
+4
+5
+e
+Example output:
+4
+
+
+Требования:
+1.	The program should read numbers from the keyboard.
+2.	The program should display a number on the screen.
+3.	The program should display the smallest integer entered.
+4.	If several minimum numbers are entered, then you need to display any one of them.
+5.	If only one non-numeric character is entered, then display the maximum possible value for an int.
+6.	You need to read data from the keyboard in a while loop.
+
+
