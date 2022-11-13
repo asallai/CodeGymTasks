@@ -1,0 +1,22 @@
+taskKey="en.codegym.task.pro.task04.task0414"\n\nThere's never too much of a good thing
+
+In this task, you need to:
+1. Use the keyboard to read a string and a number (number variable) that is greater than 0 and less than 5.
+2. Display the string number times using a do-while loop. Display each value on a new line.
+If the value read in for the number variable is less than or equal to 0 or greater than or equal to 5, then the entered string must be displayed once.
+Example input:
+abc
+2
+Example output:
+abc
+abc
+
+
+Требования:
+1.	The program should read data from the keyboard.
+2.	The program should display data on the screen.
+3.	The program should display the string number times.
+4.	The program should display the string once if number is less than or equal to 0 or greater than or equal to 5.
+5.	The program must use a do-while loop.
+
+
