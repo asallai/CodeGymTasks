@@ -1,0 +1,18 @@
+taskKey="en.codegym.task.pro.task04.task0417"\n\nWind speed
+
+Scientists express wind speed in m/s, but that figure doesn&#39;t always adequately convey its strength to laypersons.
+For the untrained, it&#39;s easier to understand it when measured in km/h, like a car, bicycle or other form of transportation.
+So let&#39;s convert speed values from m/s to km/h.
+To get the initial wind speed value in m/s, you need to read it as an integer from the keyboard.
+The ratio for converting speeds is: 1 m/s = 3.6 km/h.
+Display wind speed in km/h rounded to the nearest integer.
+For rounding, use the Math.round() method.
+
+
+Требования:
+1.	The program should read integers from the keyboard.
+2.	The program should display a number on the screen.
+3.	The program should display an integer &mdash; the result of rounding the product of multiplying the entered integer and 3.6.
+4.	The program must use the Math.round() method.
+
+
