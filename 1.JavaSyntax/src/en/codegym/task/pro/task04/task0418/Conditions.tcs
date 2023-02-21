@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task04.task0418"\n\nIs the glass half empty or half full?
+
+The main() method has a double glass variable equal to 0.5, which symbolizes a half-filled glass. For the pessimist, it is half empty. For the optimist, it is half full.
+You need to read a boolean from the keyboard using the nextBoolean() method on a Scanner object. Depending on the input data, round the glass variable: down (to 0) if we&#39;re dealing with a pessimist (false) or up (to 1) if we&#39;re dealing with an optimist (true).
+Display the result on the screen.
+Example input:
+true
+Example output:
+1
+Hint:
+To round a real number down, use the Math.floor() method. To round up, use the Math.ceil() method.
+
+
+Требования:
+1.	The program must read a boolean from the keyboard.
+2.	The program should display an integer number on the screen according to the task conditions.
+3.	The program must use the Math.floor() method.
+4.	The program must use the Math.ceil() method.
+
+
