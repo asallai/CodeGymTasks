@@ -10,11 +10,21 @@ public class Solution {
 
     public static void main(String[] args) {
 
-      for(int i=0; i<=4; i++) {
-          if(i % 2 == 0) {
-              array[i] = -array[i];
-          }
-      }
+        if(array[0] % 2 == 0) {
+            array[0] = -array[0];
+        }
+        if(array[1] % 2 == 0) {
+            array[1] = -array[1];
+        }
+        if(array[2] % 2 == 0) {
+            array[2] = -array[2];
+        }
+        if(array[3] % 2 == 0) {
+            array[3] = -array[3];
+        }
+        if(array[4] % 2 == 0) {
+            array[4] = -array[4];
+        }
 
         System.out.println(array[0]);
         System.out.println(array[1]);
