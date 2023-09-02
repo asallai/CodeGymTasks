@@ -14,7 +14,7 @@ public class Solution {
         for(int i=0; i<10; i++) {
 
             for(int j=0; j<10; j++) {
-                MULTIPLICATION_TABLE[i][j] = (i+1)*(j+1);
+                MULTIPLICATION_TABLE[i][j] = (i+1) * (j+1);
                 System.out.print(MULTIPLICATION_TABLE[i][j] + " ");
             }
             System.out.println();
